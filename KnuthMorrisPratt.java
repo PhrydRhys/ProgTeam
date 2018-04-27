@@ -1,3 +1,7 @@
+/*
+ * Graciously borrowed from the NYU APS Spring 2017 course website
+ */
+
 public class KnuthMorrisPratt {
 	public static int[] buildKMPTable(String pattern) {
 		int[] table = new int[pattern.length() + 1];
