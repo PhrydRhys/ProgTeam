@@ -1,6 +1,6 @@
 /*
  * Template for handling standard I/O
- * Uses BufferedReader, so 
+ * Uses BufferedReader & StringTokenizer
  * 
  * Referenced from:
  * https://www.geeksforgeeks.org/fast-io-in-java-in-competitive-programming/
